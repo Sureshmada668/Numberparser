@@ -1,0 +1,5 @@
+D:\Trainings\CodeTest\NumberParser\TextProcessor\bin\Debug\TextProcessor.dll
+D:\Trainings\CodeTest\NumberParser\TextProcessor\bin\Debug\TextProcessor.pdb
+D:\Trainings\CodeTest\NumberParser\TextProcessor\obj\Debug\TextProcessor.csprojAssemblyReference.cache
+D:\Trainings\CodeTest\NumberParser\TextProcessor\obj\Debug\TextProcessor.dll
+D:\Trainings\CodeTest\NumberParser\TextProcessor\obj\Debug\TextProcessor.pdb

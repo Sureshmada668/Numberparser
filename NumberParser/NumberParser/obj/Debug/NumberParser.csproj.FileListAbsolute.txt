@@ -1,0 +1,9 @@
+D:\Trainings\CodeTest\NumberParser\NumberParser\bin\Debug\NumberParser.exe.config
+D:\Trainings\CodeTest\NumberParser\NumberParser\bin\Debug\NumberParser.exe
+D:\Trainings\CodeTest\NumberParser\NumberParser\bin\Debug\NumberParser.pdb
+D:\Trainings\CodeTest\NumberParser\NumberParser\obj\Debug\NumberParser.csprojAssemblyReference.cache
+D:\Trainings\CodeTest\NumberParser\NumberParser\obj\Debug\NumberParser.exe
+D:\Trainings\CodeTest\NumberParser\NumberParser\obj\Debug\NumberParser.pdb
+D:\Trainings\CodeTest\NumberParser\NumberParser\bin\Debug\TextProcessor.dll
+D:\Trainings\CodeTest\NumberParser\NumberParser\bin\Debug\TextProcessor.pdb
+D:\Trainings\CodeTest\NumberParser\NumberParser\obj\Debug\NumberParser.csproj.CopyComplete
